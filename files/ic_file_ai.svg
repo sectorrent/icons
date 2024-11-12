@@ -1,0 +1,17 @@
+<svg xmlns='http://www.w3.org/2000/svg' height='24' viewBox='0 0 24 24' width='24'>
+    <path
+        d='M5 0 h12.5 v4 q0 2 2 2 h4 v16 q0 2 -2 2 h-16 q-2 0 -2 -2 v-20 q0 -2 2 -2'
+        fill='#FCEFE3' />
+
+    <path
+        d='M17.5 0 v4 q0 2 2 2 h4'
+        fill='#F9B582' />
+
+    <path
+        d='M2.5 14.5 h14 q2 0 2 2 v4 q0 2 -2 2 h-14 q-2 0 -2 -2 v-4 q0 -2 2 -2'
+        fill='#F49D47' />
+
+    <path
+        d='M6.5 4.4 h8.4 v1 h-8.4 m0 1.6 h8.4 v1 h-8.4 m0 1.6 h11.2 v1 h-11.2 m0 1.6 h13.6 v1 h-13.6'
+        fill='#F9B582' />
+</svg>

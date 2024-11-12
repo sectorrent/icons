@@ -1,0 +1,21 @@
+<svg xmlns='http://www.w3.org/2000/svg' height='24' viewBox='0 0 24 24' width='24'>
+    <path
+        d='M5 0 h12.5 v4 q0 2 2 2 h4 v16 q0 2 -2 2 h-16 q-2 0 -2 -2 v-20 q0 -2 2 -2'
+        fill='#E9FFE9' />
+
+    <path
+        d='M17.5 0 v4 q0 2 2 2 h4'
+        fill='#97DD97' />
+
+    <path
+        d='M2.5 14.5 h14 q2 0 2 2 v4 q0 2 -2 2 h-14 q-2 0 -2 -2 v-4 q0 -2 2 -2'
+        fill='#65CE65' />
+
+    <path
+        d='M6.5 3.4 v8.7 h8.7 v-8.7  m-3 2 v2 h2 v-2'
+        fill='#97DD97' />
+
+    <path
+        d='M7.5 4.4 v1.6 h1.6 v-1.6 m1 0 v1.6 h1.6 v-1.6 m1 0 v1.6 h1.6 v-1.6 m-6.8 2.6 v1.6 h1.6 v-1.6 m1 0 v1.6 h1.6 v-1.6 m1 0 v1.6 h1.6 v-1.6 m-6.8 2.6 v1.6 h1.6 v-1.6 m1 0 v1.6 h1.6 v-1.6 m1 0 v1.6 h1.6 v-1.6'
+        fill='#E9FFE9' />
+</svg>
